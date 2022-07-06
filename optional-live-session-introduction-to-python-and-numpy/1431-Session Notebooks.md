@@ -1,0 +1,3 @@
+<p>Notebook&nbsp;link:&nbsp;<a href="https://github.com/dphi-official/Data_Science_Bootcamp/tree/master/Week0" target="_blank">https://github.com/dphi-official/Data_Science_Bootcamp/tree/master/Week0</a></p>
+
+<p>Exercise Solutions:&nbsp;<a href="https://github.com/dphi-official/Data_Science_Bootcamp/blob/master/Week0/Numpy_Exercises_Solutions.ipynb" target="_blank">https://github.com/dphi-official/Data_Science_Bootcamp/blob/master/Week0/Numpy_Exercises_Solutions.ipynb</a></p>

@@ -12,7 +12,7 @@ You can see here that the first row in arr is nothing but the first inner list \
 Use arange() function to create collection of continuous integers.
 ![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_aa60921d6a504e1f9042be8a10a69062.png)
 
-Here, 10 means arange will generate the first ten integers starting from 0. Similarly, if you pass 5 inside the bracket, it will generate numbers from 0 to 4 (i.e., first five integers): `[ 0, 1, 2, 3, 4 ]`
+Here, 10 means arange will generate the first ten integers starting from 0. Similarly, if you pass 5 inside the bracket, it will generate numbers from 0 to 4 (i.e., first five integers): `[0, 1, 2, 3, 4]`
 
 ### zeros( )
 

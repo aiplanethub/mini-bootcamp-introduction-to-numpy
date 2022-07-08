@@ -7,7 +7,7 @@
 
 ### Vector
 
-* A vector, in programming, is a type of array that is one dimensional.
+* A vector, in programming, is a type of array that is one-dimensional.
 * For example, \[1, 2, 3, 4, 5] is a vector.
 
 ### Matrix
@@ -24,9 +24,9 @@
 
 ### Dimension of Matrix
 
-* The shape of matrix also tells you it’s dimensions. The dimension of matrix A is 2 as its shape is 2 $\times$ 3.
+* The shape of the matrix also tells you its dimensions. The dimension of matrix A is two as its shape is $2 \times 3$.
 * If a matrix has a shape, say, $2\times3\times2$, the dimension of the matrix would be 3.
-* Don’t worry if you don’t get this point. It will become clearer as you go along.
+* Don’t worry if you don’t get this point. It will become more apparent as you go along.
 
 ### Matrix
 

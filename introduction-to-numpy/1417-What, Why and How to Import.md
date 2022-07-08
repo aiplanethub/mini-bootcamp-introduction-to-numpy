@@ -9,7 +9,7 @@
 ### What is NumPy?
 
 * NumPy stands for Numerical Python.
-* It is an open - source Python library.
+* It is an open-source Python library.
 
 ### Use of NumPy
 
@@ -22,7 +22,7 @@
 
 ### Import NumPy
 
-Anytime you want to use a library in Python, your first priority should be to make it accessible.
+Anytime you want to use a library in Python, the first step should be to make it accessible.
 
 You can import/load NumPy in your notebook or any other Python IDE in two different ways.
 
@@ -30,6 +30,6 @@ You can import/load NumPy in your notebook or any other Python IDE in two differ
 OR \
 **`import numpy as np`**
 
-We will be using **np** shorthand for numpy. It simply serves as an alias and it is easier to use np instead writing full form ‘numpy’ while coding.
+We will be using **np** shorthand for NumPy. It simply serves as an alias, making it easier to use np instead of writing ‘numpy’ while coding.
 
 Note: In this bootcamp, we will use `import numpy as np`.

@@ -17,8 +17,6 @@ Say you have an array with elements: [10, 20, 30, 40]. You want to get the 3rd e
 
 Now, what is the dimension of the array? Yep, it's 1!
 
-Remember how we used to extract an element from a nested list in Python? No? No worries. You will remember once you jump to the below part.
-
 ### Positive Single Indexing in Python Nested List
 
 The below snippet will help you remember how to get one element from a Python nested list.

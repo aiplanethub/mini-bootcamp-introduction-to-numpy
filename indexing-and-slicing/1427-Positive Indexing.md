@@ -2,7 +2,7 @@
 
 ### Rows and Columns Indexes in an Array
 
-<img src = "https://dphi-live.s3.amazonaws.com/media_uploads/image_194a8f60ef314804a038fc8fd0808300.png" width = 50% />
+<img src = "https://dphi-live.s3.amazonaws.com/media_uploads/image_194a8f60ef314804a038fc8fd0808300.png" width = "200" />
 
 ![image.png](https://dphi-live.s3.amazonaws.com/media_uploads/image_194a8f60ef314804a038fc8fd0808300.png)
 

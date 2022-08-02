@@ -1,10 +1,10 @@
-# Arrays
-
 ### Learning Objectives
 
 * Understanding keywords
 * Arrays
 * Lists vs. Arrays
+
+Before we get into the Numpy library in Python and its functionalities, we will first look at what are Arrays, Vectors, and Matrices - these are basic concepts of Linear Algebra, a field of Mathematics. These concepts are also used extensively in Data Science, so we must familiarize ourselves with them.
 
 ### Understanding Keywords
 
